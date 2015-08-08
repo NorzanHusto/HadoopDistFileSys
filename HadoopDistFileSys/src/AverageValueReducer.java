@@ -17,8 +17,7 @@ import org.apache.hadoop.mapred.Reporter;
  * 
  * Not much to it.
  * 
- * @author Nan Hu 08-07-2015
- * test on github.com
+ * @author Nan Hu 08-07-2015 test on github.com try push from eclipse
  */
 public class AverageValueReducer extends MapReduceBase
 implements Reducer<WritableComparable,Writable,WritableComparable,Writable>
